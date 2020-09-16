@@ -1,0 +1,8 @@
+pip
+wheel==0.33.1
+numpy
+cython
+spacy
+neuralcoref==4.0
+benepar
+allennlp
