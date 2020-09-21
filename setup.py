@@ -7,7 +7,7 @@ requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2"]
 
 setup(
     name="Text2Dec",
-    version="0.0.1",
+    version="0.0.2",
     author="Vedavyas Etikala",
     author_email="vedavyas.etikala@kuleuven.be",
     description="A package to convert text to DMN model",
