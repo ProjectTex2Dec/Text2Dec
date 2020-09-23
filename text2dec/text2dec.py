@@ -18,7 +18,7 @@ def dep_extractor():
     """
     This function takes as input a text fragment. This could be either a sentence or a paragraph with decision logic. The input value should be a string.
     Args:
-        my_name (str): person's name
+        None
     Returns:
         None
     """
