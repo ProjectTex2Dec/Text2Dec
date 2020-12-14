@@ -1,3 +1,5 @@
+#Pattern based approach
+
 def extract_dependency_relations(doc):
     dependencies = []
     #for each sentence there exits a root. if it is a VERB or AUX then we extract dependencies
